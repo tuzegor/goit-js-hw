@@ -1,3 +1,5 @@
+// Дополнительное задание со звездочкой
+
 const renderButton = document.querySelector('[data-action="render"]');
 const destroyButton = document.querySelector('[data-action="destroy"]');
 const boxes = document.querySelector('#boxes');
